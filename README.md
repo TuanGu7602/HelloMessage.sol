@@ -7,3 +7,4 @@ contract HelloMessage {
     string public message;
     function setHello() public { message = "Hello"; }
 }
+Add number operations contracts
