@@ -8,3 +8,4 @@ contract HelloMessage {
     function setHello() public { message = "Hello"; }
 }
 Add number operations contracts
+Simplify function logic
