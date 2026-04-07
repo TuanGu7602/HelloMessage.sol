@@ -9,3 +9,4 @@ contract HelloMessage {
 }
 Add number operations contracts
 Simplify function logic
+Fix contract deployment issue
