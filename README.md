@@ -11,3 +11,4 @@ Add number operations contracts
 Simplify function logic
 Fix contract deployment issue
 Improve variable naming
+Add event for tracking changes
