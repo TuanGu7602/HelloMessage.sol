@@ -14,3 +14,4 @@ Improve variable naming
 Add event for tracking changes
 Update function logic
 Add input checks
+Simplify logic flow
